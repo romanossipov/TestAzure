@@ -3,6 +3,6 @@
   <title>Test PHP</title>
  </head>
  <body>
- <?php echo '<p>serveur US</p>'; ?>
+ <?php echo '<p>serveur FR</p>'; ?>
  </body>
 </html>
